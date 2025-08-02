@@ -11,3 +11,8 @@
 .progress-bar{
     background-color: white !important;
 }
+
+.card:hover{
+    transform: scale(1.02);
+    transition: 0,3s;
+}
